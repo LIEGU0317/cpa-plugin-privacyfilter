@@ -1,9 +1,9 @@
 github.com/BurntSushi/toml v1.6.0 h1:dRaEfpa2VI55EwlIW72hMRHdWouJeRF7TPYhI+AUQjk=
 github.com/BurntSushi/toml v1.6.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
+github.com/LIEGU0317/privacy-filter v0.0.0-20260916003212-ae74728c6f4e h1:N4dxoqLZjAzMnEXpcZwW1XTg3GFl5pF7o1HmXds5NBA=
+github.com/LIEGU0317/privacy-filter v0.0.0-20260916003212-ae74728c6f4e/go.mod h1:IjEIM1bPhNzqohFpJALLzSIAD1fjOBH3STcZGNqBds0=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/packyme/privacy-filter v0.0.0-20260609060647-64b8de3c2060 h1:K7HMK/966xnPeCYVyMH6fecWkZv6TQZOJfo7Uf+PtxU=
-github.com/packyme/privacy-filter v0.0.0-20260609060647-64b8de3c2060/go.mod h1:IjEIM1bPhNzqohFpJALLzSIAD1fjOBH3STcZGNqBds0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/router-for-me/CLIProxyAPI/v7 v7.1.70 h1:BkRgqex9mF4C27K7EqwC4pKCFaSDZzF8s33/9pSxU3M=

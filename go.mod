@@ -12,4 +12,4 @@ require (
 
 require github.com/BurntSushi/toml v1.6.0 // indirect
 
-replace privacyfilter => github.com/LIEGU0317/privacy-filter ae74728c6f4e9692a6620cae9b0a995c2fcc26d6
+replace privacyfilter => github.com/LIEGU0317/privacy-filter v0.0.0-20260916003212-ae74728c6f4e
