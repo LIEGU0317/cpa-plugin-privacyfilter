@@ -31,7 +31,7 @@ func buildPlugin(configYAML []byte, pluginDir string) (pluginapi.Plugin, error) 
 			Name:             pluginName,
 			Version:          pluginVersion,
 			Author:           "rheodev",
-			GitHubRepository: "https://github.com/rheodev/cpa-plugin-privacyfilter",
+			GitHubRepository: "https://github.com/LIEGU0317/cpa-plugin-privacyfilter",
 			ConfigFields: []pluginapi.ConfigField{
 				{
 					Name:        "gitleaks_toml",
